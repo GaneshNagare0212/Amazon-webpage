@@ -1,1 +1,23 @@
-# Amazon-webpage
+# 📌 Amazon Webpage Clone
+
+This is a simple clone of the Amazon homepage built using HTML and CSS.
+
+## 🔹 Live Demo
+https://ganeshnagare0212.github.io/Amazon-webpage/
+
+## 📁 Features
+- Navigation bar
+- Search bar
+- Hero section
+- Product grid
+- Footer section
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+
+## 📷 Screenshots
+(Add a screenshot or screen recording here)
+
+## 👨‍💻 Developed By
+Ganesh Nagare
