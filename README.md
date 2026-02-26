@@ -2,8 +2,6 @@
 
 This is a simple clone of the Amazon homepage built using HTML and CSS.
 
-## 🔹 Live Demo
-https://ganeshnagare0212.github.io/Amazon-webpage/
 
 ## 📁 Features
 - Navigation bar
