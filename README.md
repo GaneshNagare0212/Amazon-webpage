@@ -16,8 +16,5 @@ https://ganeshnagare0212.github.io/Amazon-webpage/
 - HTML
 - CSS
 
-## 📷 Screenshots
-(Add a screenshot or screen recording here)
-
 ## 👨‍💻 Developed By
 Ganesh Nagare
